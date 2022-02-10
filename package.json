@@ -16,7 +16,7 @@
     "babel-preset-es2016": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "css-loader": "^3.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
     "react-redux": "^7.2.1",
